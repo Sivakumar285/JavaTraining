@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class Number {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{	
          Scanner sc=new Scanner(System.in);
          System.out.println("Enter a number:");
          int N=sc.nextInt();
